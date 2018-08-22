@@ -8,4 +8,6 @@ A simple web page which can be used to generate a random string of characters of
 
 It was interesting to come back to this code after so many years. There was no need for the addition of drag and drop which I'd re-used from another project and therefore there was no need for the overhead of JQuery and its UI companion. I added a few cosmetic changes and a function to copy the result to the clipboard. There are obviously lots of ways of doing this (I even have a spreadsheet version), most of them no doubt much better than this but I still use it.
 
+There is a demo [here](https://demos.hibbert.online/randomizer/randomizer.html)
+
 August 22 2018.
